@@ -1,9 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <a href="https://oreof.univ-reims.fr/"><img src="https://oreof.univ-reims.fr/images/Logo/Logo.svg" alt="Logo ORéOF" height="110"></a>
+  <a href="https://oreof.univ-reims.fr/"><img src="https://oreof.univ-reims.fr/images/Logo/Logo.svg" alt="Logo ORéOF" height="110" style="background-color: white; padding: 12px; border-radius: 8px;"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.univ-reims.fr/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Reims%20University.png" alt="Logo de l’Université de Reims Champagne-Ardenne" height="110"></a>
+  <a href="https://www.univ-reims.fr/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Logo_Universit%C3%A9_Reims_Champagne-Ardenne_New.jpg" alt="Logo de l’Université de Reims Champagne-Ardenne" height="110" style="background-color: white; padding: 12px; border-radius: 8px;"></a>
 </p>
 
 # ORéOF
