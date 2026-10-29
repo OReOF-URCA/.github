@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://oreof.univ-reims.fr/"><img src="https://oreof.univ-reims.fr/images/Logo/Logo.svg" alt="Logo ORéOF" height="110"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.univ-reims.fr/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Reims%20University.png" alt="Logo de l’Université de Reims Champagne-Ardenne" height="110"></a>
+</p>
+
 # ORéOF
 
 ### Outil de Rédaction de l’Offre de Formation
