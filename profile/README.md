@@ -58,6 +58,26 @@ L’application s’appuie sur **PHP 8.4+**, **Symfony 8.1**, **Doctrine**, **Tw
 | Évolutions et anomalies | [Issues](https://github.com/OReOF-URCA/oreof/issues) |
 | Propositions de contributions | [Pull requests](https://github.com/OReOF-URCA/oreof/pulls) |
 
+## Équipe de développement et contributeurs
+
+ORéOF est développé et enrichi grâce à l'implication de plusieurs développeurs et contributeurs.
+
+### Développeurs principaux
+
+| Développeur | Profil GitHub | Dépôts publics |
+| :-- | :-- | :-- |
+| **David Annebicque** | [@Dannebicque](https://github.com/Dannebicque) | [Voir ses dépôts](https://github.com/Dannebicque?tab=repositories) |
+| **@PMarchal51100** | [Profil GitHub](https://github.com/PMarchal51100) | [Voir ses dépôts](https://github.com/PMarchal51100?tab=repositories) |
+
+### Contributeurs
+
+| Contributeur | Profil GitHub | Dépôts publics |
+| :-- | :-- | :-- |
+| **@loucalm** | [Profil GitHub](https://github.com/loucalm) | [Voir ses dépôts](https://github.com/loucalm?tab=repositories) |
+| **@Akcadag-Bastien** | [Profil GitHub](https://github.com/Akcadag-Bastien) | [Voir ses dépôts](https://github.com/Akcadag-Bastien?tab=repositories) |
+
+La [liste des contributions au projet](https://github.com/OReOF-URCA/oreof/graphs/contributors) permet également de retrouver les personnes ayant participé au développement d'ORéOF.
+
 ## Contribuer
 
 Les retours d’expérience et les contributions sont les bienvenus : signalement d’anomalies, amélioration de la documentation, accessibilité, qualité du code ou propositions fonctionnelles. Avant toute proposition, consultez les issues existantes et la documentation du dépôt. Pour une modification de code, privilégiez une branche dédiée et une pull request décrivant le besoin, les changements et leurs tests.
